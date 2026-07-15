@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="images/logo.png" alt="FishEdit logo" width="800">
+  <img src="images/logo.png" alt="FishEdit logo" width="500">
 </div>
 
 ---
